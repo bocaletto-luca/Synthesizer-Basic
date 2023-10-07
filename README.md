@@ -1,7 +1,8 @@
 # Synthesizer LB-1
 
 Synthesizer LB-1 è un'applicazione software creata da Luca Bocaletto, funge da sintetizzatore MIDI virtuale. Questo software è stato progettato per ricevere input MIDI e generare suoni emulando oscillatori e diverse forme d'onda, consentendo agli utenti di sperimentare e creare musica in modo creativo.
-![Screenshot 2023-10-07 181704](https://github.com/elektronoide/Synthesizer-LB-1/assets/134635227/2a98abf3-0fb6-4c0b-9d74-129d9ea21175)
+
+![Screenshot 2023-10-07 181817](https://github.com/elektronoide/Synthesizer-LB-1/assets/134635227/31ec5605-264e-4e79-8b88-f8aea25acd35)
 
 ## Principali Caratteristiche
 
