@@ -1,23 +1,23 @@
-# Synthesizer LB-1
+# Synthesizer Basic
 
-Synthesizer LB-1 è un'applicazione software creata da Luca Bocaletto, funge da sintetizzatore MIDI virtuale. Questo software è stato progettato per ricevere input MIDI e generare suoni emulando oscillatori e diverse forme d'onda, consentendo agli utenti di sperimentare e creare musica in modo creativo.
+Synthesizer Basic is a software application created by Luca Bocaletto that functions as a virtual MIDI synthesizer. This software is designed to receive MIDI input and generate sounds by emulating oscillators and different waveforms, allowing users to experiment and create music creatively.
 
 ![Screenshot 2023-10-07 181817](https://github.com/elektronoide/Synthesizer-LB-1/assets/134635227/31ec5605-264e-4e79-8b88-f8aea25acd35)
 
-## Principali Caratteristiche
+## Key Features
 
-- **Interfaccia Utente Intuitiva:** L'applicazione offre un'interfaccia utente intuitiva basata su Tkinter, che permette agli utenti di controllare facilmente il suono generato e i parametri dell'inviluppo.
+- **Intuitive User Interface:** The application offers an intuitive user interface based on Tkinter, allowing users to easily control the generated sound and envelope parameters.
 
-- **Gestione MIDI:** Synthesizer LB-1 può ricevere input da periferiche MIDI esterne, consentendo agli utenti di suonare il sintetizzatore utilizzando tastiere o controller MIDI.
+- **MIDI Management:** Synthesizer LB-1 can receive input from external MIDI devices, enabling users to play the synthesizer using MIDI keyboards or controllers.
 
-- **Controllo del Suono:** Gli utenti possono regolare il volume, selezionare diverse forme d'onda (tra cui sinusoide, triangolare, quadra e dente di sega), e modificare i parametri ADSR (Attack, Decay, Sustain, Release) per modellare il suono desiderato.
+- **Sound Control:** Users can adjust the volume, select different waveforms (including sine, triangular, square, and sawtooth), and modify ADSR parameters (Attack, Decay, Sustain, Release) to shape the desired sound.
 
-- **Generazione Audio in Tempo Reale:** Il software genera segnali audio in tempo reale basati sulle interazioni dell'utente, consentendo loro di ascoltare immediatamente il risultato delle modifiche apportate ai parametri.
+- **Real-Time Audio Generation:** The software generates audio signals in real time based on user interactions, allowing them to instantly hear the results of parameter adjustments.
 
-- **Conversione da Nota MIDI a Frequenza:** Synthesizer LB-1 converte le note MIDI in frequenze corrispondenti, permettendo agli utenti di suonare note specifiche utilizzando input MIDI standard.
+- **MIDI Note to Frequency Conversion:** Synthesizer LB-1 converts MIDI notes into corresponding frequencies, allowing users to play specific notes using standard MIDI input.
 
-- **Compatibilità con Diverse Forme d'Onda:** Oltre alle classiche forme d'onda come il sinusoidale, il software offre forme d'onda più complesse come la sega, la quadra e la triangolare per una vasta gamma di possibilità sonore.
+- **Compatibility with Various Waveforms:** In addition to standard waveforms like sine waves, the software provides complex waveforms such as sawtooth, square, and triangular for a wide range of sound possibilities.
 
-- **Gestione dei Thread:** L'applicazione utilizza thread per gestire la riproduzione audio in modo che l'interfaccia utente rimanga reattiva durante la generazione del suono.
+- **Thread Management:** The application uses threading to handle audio playback so that the user interface remains responsive during sound generation.
 
-Synthesizer LB-1 è uno strumento ideale per musicisti, compositori e appassionati di sintetizzatori che desiderano sperimentare con la creazione di suoni unici e personalizzati. La sua interfaccia intuitiva e le opzioni di controllo flessibili lo rendono uno strumento potente per l'esplorazione e la produzione musicale.
+Synthesizer Basic is an ideal tool for musicians, composers, and synthesizer enthusiasts who want to experiment with creating unique and personalized sounds. Its intuitive interface and flexible control options make it a powerful instrument for musical exploration and production.
