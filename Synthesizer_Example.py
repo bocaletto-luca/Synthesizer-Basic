@@ -1,5 +1,5 @@
-# Name: Synthesizer LB-1
-# Author: Bocaletto Luca Aka Elektronoide
+# Name: Synthesizer
+# Author: Bocaletto Luca
 # Description: Riceve MIDI Input esempio da una tastierae e Genera Suoni corrispondenti alla nota suonata, prova a emulare un oscillatore con le 4 forme d'onda principali e integra anche un Envelope
 import mido  # Importa la libreria mido per la gestione MIDI
 import pyaudio  # Importa la libreria pyaudio per l'audio
