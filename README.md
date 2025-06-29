@@ -21,3 +21,11 @@ Synthesizer Basic is a software application created by Luca Bocaletto that funct
 - **Thread Management:** The application uses threading to handle audio playback so that the user interface remains responsive during sound generation.
 
 Synthesizer Basic is an ideal tool for musicians, composers, and synthesizer enthusiasts who want to experiment with creating unique and personalized sounds. Its intuitive interface and flexible control options make it a powerful instrument for musical exploration and production.
+
+---
+
+**Maintainer Update**
+
+All legacy projects from the old `@Elektronoide` GitHub account are now officially maintained by **@bocaletto-luca**. Please direct any issues, pull requests, and stars to **@bocaletto-luca** for all future updates.
+
+---
